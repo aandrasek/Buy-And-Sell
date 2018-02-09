@@ -1,0 +1,21 @@
+﻿@model BuyAndSell.VModels.ListModel
+
+@{
+    ViewBag.Title = "SelectCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/style.css" />
+
+<h2>SelectCategory</h2>
+
+
+@using (Html.BeginForm("SelectSubCategory", "Products", FormMethod.Post))
+{
+    @Html.ListBoxFor(c => c.SelectedID, Model.Items, new { @class = "listbox" })
+    <br />
+    <input type="submit" value="Next" class="button" />
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

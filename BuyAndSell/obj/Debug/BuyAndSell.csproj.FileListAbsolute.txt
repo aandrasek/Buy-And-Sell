@@ -1,0 +1,98 @@
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\ApplicationInsights.config
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\BuyAndSell.dll.config
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\BuyAndSell.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\BuyAndSell.pdb
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Antlr3.Runtime.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\EntityFramework.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\EntityFramework.SqlServer.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.Web.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.WindowsServer.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.ApplicationInsights.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Newtonsoft.Json.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Helpers.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Mvc.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Optimization.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Razor.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.Deployment.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.Razor.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\WebGrease.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\EntityFramework.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\EntityFramework.SqlServer.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Helpers.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Mvc.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Optimization.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.Razor.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.Deployment.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\System.Web.WebPages.Razor.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Antlr3.Runtime.pdb
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Newtonsoft.Json.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.ApplicationInsights.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.WindowsServer.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\bin\Microsoft.AI.Web.xml
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.csproj.CoreCompileInputs.cache
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.dll
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.pdb
+c:\users\stole\source\repos\BuyAndSell\BuyAndSell\obj\Debug\BuyAndSell.csprojResolveAssemblyReference.cache
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\ApplicationInsights.config
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\BuyAndSell.dll.config
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\BuyAndSell.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\BuyAndSell.pdb
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Antlr3.Runtime.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\EntityFramework.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\EntityFramework.SqlServer.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.Web.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Newtonsoft.Json.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Helpers.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Mvc.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Optimization.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Razor.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\WebGrease.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\EntityFramework.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\EntityFramework.SqlServer.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Helpers.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Mvc.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Optimization.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.Razor.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Antlr3.Runtime.pdb
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Newtonsoft.Json.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\Microsoft.AI.Web.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.pdb
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\PagedList.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\PagedList.Mvc.dll
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\PagedList.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\bin\PagedList.Mvc.xml
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.Migrations.prva.resources
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.csproj.GenerateResource.Cache
+C:\Users\Stole\Desktop\moji projekti\BuyAndSell - Copy\BuyAndSell\obj\Debug\BuyAndSell.csprojResolveAssemblyReference.cache

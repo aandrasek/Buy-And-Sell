@@ -1,0 +1,25 @@
+﻿@model List<BuyAndSell.Models.Product>
+@{
+    ViewBag.Title = "Home Page";
+}
+<link rel="stylesheet" href="~/style.css" />
+<h1 class="center">WELCOME TO BUY&SELL</h1>
+<h3 class="center">Latest products</h3>
+<br />
+@foreach (var item in Model)
+{
+
+    <div class="product">
+        <a href="/Home/ProductInfo?ID=@item.ID">
+            <img src="~/Images/@item.MainImage" alt="@item.Name img" />
+        </a>
+        <div class="text">
+            <a href="/Home/ProductInfo?ID=@item.ID">
+                <h1>@item.Name</h1>
+            </a>
+            <p>Posted on: @String.Format("{0:dd.MM.yyyy}", item.DateofRel)</p>
+            <p class="price">@item.Price kn</p>
+        </div>
+    </div>
+
+}

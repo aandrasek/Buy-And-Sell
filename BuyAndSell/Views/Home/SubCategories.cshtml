@@ -1,0 +1,13 @@
+﻿@model List<BuyAndSell.Models.Category>
+
+@{
+    ViewBag.Title = "SubCategories";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/style.css" />
+<ul style="display:inline-block;">
+    @foreach (var item in Model)
+    {
+        <li class="sublist">@Html.ActionLink(item.Name, "Products", "Home", new { ID = item.ID }, new { @class = "subcat" })</li>
+    }
+</ul>

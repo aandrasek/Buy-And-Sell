@@ -1,0 +1,97 @@
+﻿@model BuyAndSell.Models.Product
+
+@{
+    ViewBag.Title = "ProductInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .productt {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+        .productt img {
+            height: 100%;
+            width: auto;
+        }
+
+    #myCarousel {
+        width: 50%;
+        float: left;
+    }
+
+    .productt .carousel-inner {
+        height: 300px;
+    }
+
+    h4 {
+        margin-left: 10px;
+    }
+
+    h2 {
+        color: #808080;
+    }
+</style>
+<div class="productt">
+    <div class="w3-content w3-display-container" style="width:600px;float:left;background:#000000;">
+
+        <div class="w3-display-container mySlides" style="background:#000000;">
+            <img src="~/Images/@ViewBag.MainImagee.MainImage" alt="img" style="height:300px;width:auto;margin:auto;">
+        </div>
+
+        @foreach (var item in ViewBag.data)
+        {
+            <div class="w3-display-container mySlides" style="background:#000000;">
+                <img src="~/Images/@item.Image" alt="img" style="height:300px;width:auto;margin:auto;">
+            </div>
+        }
+
+
+        <button style="margin:0;" class="w3-button w3-display-left w3-black button" onclick="plusDivs(-1)">&#10094;</button>
+        <button style="margin:0;" class="w3-button w3-display-right w3-black button" onclick="plusDivs(1)">&#10095;</button>
+
+    </div>
+    <div style="float:left;height:326px;width:47%;background:#000000;color:#ffffff;">
+        <br />
+        <h1 style="margin-left:20px;">@Model.Name</h1>
+        <h2 style="margin-left:20px;">Release date: @String.Format("{0:dd.MM.yyyy}", Model.DateofRel)</h2>
+        <br />
+        <br />
+        <br />
+        <br />
+        <h2 style="margin-left:20px;">Price: @Model.Price Kn</h2>
+    </div>
+
+    <div style="height:300px;width:70%;float:left">
+        <pre style="border:none;border-radius:0;background:#f5f5f5;border-right:#808080 3px solid; max-width:794px;">@Model.Description</pre>
+    </div>
+    <div style="margin-left:20px;">
+        <div style="float:left;width:30%;">
+            <h4>Phone number: @Model.PhoneNum</h4>
+            <h4>Area: @Model.Area</h4>
+            <h4>Address: @Model.Address</h4>
+            <h4>Email: @Html.ActionLink(Model.Email, "ProductsOf", "Home", new { email = Model.Email }, null)</h4>
+        </div>
+    </div>
+
+
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
+
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            if (n > x.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = x.length }
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex - 1].style.display = "block";
+        }
+    </script>
+</div>

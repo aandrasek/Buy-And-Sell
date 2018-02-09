@@ -1,0 +1,27 @@
+﻿@model List<BuyAndSell.Models.Product>
+@{
+    ViewBag.Title = "ProductsOf";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/style.css" />
+<h1>All products from: @ViewBag.headline</h1>
+@if (Model.Count == 0)
+{
+    <h2>No Products!</h2>
+}
+@foreach (var item in Model)
+{
+    <div class="product">
+        <a href="/Home/ProductInfo?ID=@item.ID">
+            <img src="~/Images/@item.MainImage" alt="@item.Name img" />
+        </a>
+        <div class="text">
+            <a href="/Home/ProductInfo?ID=@item.ID">
+                <h1>@item.Name</h1>
+            </a>
+            <p>Posted on: @String.Format("{0:dd.MM.yyyy}", item.DateofRel)</p>
+            <p class="price">@item.Price kn</p>
+        </div>
+    </div>
+}

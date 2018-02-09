@@ -1,0 +1,6 @@
+﻿@model List<BuyAndSell.Models.Category>
+<link rel="stylesheet" href="~/style.css" />
+    @foreach (var item in Model)
+    {
+        <li>@Html.ActionLink(item.Name, "SubCategory", "Home", new { ID = item.ID }, new { @class = "navbar-brand" })</li>
+    }
